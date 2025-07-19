@@ -10,7 +10,7 @@ This project is about classifying fruits using a deep learning model built with 
 📄 **Project Report (PDF)**  
 All the details and explanations are included in the PDF report below:
 
-👉 [FruitClassificationProjectMayarWaleedNawas120220147_747e68485ecb6296c826f09a1bbc5609.pdf](./FruitClassificationProjectMayarWaleedNawas120220147_747e68485ecb6296c826f09a1bbc5609.pdf)
+👉 [FruitClassificationProjectMayarWaleedNawas120220147_747e68485ecb6296c826f09a1bbc5609.pdf](https://github.com/myarnwas/System-Description-and-Project-Analysis-for-Fruit-Classification-System/blob/main/FruitClassificationProjectMayarWaleedNawas120220147_747e68485ecb6296c826f09a1bbc5609.pdf)
 
 🗂️ **Note:**  
 Everything mentioned in the PDF is implemented inside the compressed project folder, in the same order.
